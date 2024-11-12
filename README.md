@@ -29,6 +29,7 @@ Time Period: Focus on analyzing data over a minimum of 10 years to identify long
 Visualizations:  
 a. Line Charts (for each time series)
 Create individual line charts for each of your selected metrics, highlighting their trends over time. Be sure to clearly label axes and include important data points, such as notable economic events (e.g., the 2008 housing crash, the 2020 pandemic impact).
+
 b. Annotations and Trendlines
 Add annotations or trendlines to mark significant shifts, recessions, or policy changes that influenced the housing market.
 
