@@ -26,28 +26,24 @@ Housing inventory or vacancy rates.
 New construction starts or permits issued.
 Time Period: Focus on analyzing data over a minimum of 10 years to identify long-term trends. You may also include more specific time periods such as the 2008 housing crisis, the post-pandemic housing boom, or recent fluctuations in mortgage rates.
 
-- Visualizations:
-  
+Visualizations:  
 a. Line Charts (for each time series)
 Create individual line charts for each of your selected metrics, highlighting their trends over time. Be sure to clearly label axes and include important data points, such as notable economic events (e.g., the 2008 housing crash, the 2020 pandemic impact).
 b. Annotations and Trendlines
 Add annotations or trendlines to mark significant shifts, recessions, or policy changes that influenced the housing market.
 
-- Analysis Questions:
-  
+Analysis Questions:  
 What are the key trends in home prices, sales, and mortgage rates over time?
 How do different metrics relate to each other (e.g., how do changes in mortgage rates affect home sales)?
 Can you identify any cyclical patterns or seasonality in the data?
 How did significant economic events (e.g., the 2008 financial crisis or COVID-19 pandemic) affect the housing market?
 
-- Tools: Use any data visualization tool of your choice, such as:
-  
+Tools: Use any data visualization tool of your choice, such as:  
 Python: (Matplotlib, Seaborn)
 R: (ggplot2)
 Excel
 Tableau or Power BI
 
-- Deliverables:
-  
+Deliverables:  
 Report (400-500 words): Analyzing the trends observed in the visualizations, interpreting the relationships between different variables, and explaining how economic events impacted the housing market.
 Code files (optional)
