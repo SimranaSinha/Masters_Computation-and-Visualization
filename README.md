@@ -46,5 +46,4 @@ Excel
 Tableau or Power BI
 
 Deliverables:  
-Report (400-500 words): Analyzing the trends observed in the visualizations, interpreting the relationships between different variables, and explaining how economic events impacted the housing market.
-Code files (optional)
+Report (400-500 words): Analyzing the trends observed in the visualizations, interpreting the relationships between different variables, and explaining how economic events impacted the housing 
