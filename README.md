@@ -52,7 +52,7 @@ Report (400-500 words): Analyzing the trends observed in the visualizations, int
 
 # Project 1 : Data Visualization Project on Work-from-Home vs. Back-to-Office Policies
 
-This project focuses on an analysis of work-from-home (WFH) vs. back-to-office policies, utilizing insights from the WFH Research database (https://wfhresearch.com/Links to an external site.). The goal is to provide a clear, data-driven view on the impacts of these policies across different industries and regions, helping us assess their long-term implications. In addition to the source mentioned here you are encouraged to use other relevant data sources on WFH.
+This project focuses on an analysis of work-from-home (WFH) vs. back-to-office policies, utilizing insights from the WFH Research database. The goal is to provide a clear, data-driven view on the impacts of these policies across different industries and regions, helping us assess their long-term implications. In addition to the source mentioned here you are encouraged to use other relevant data sources on WFH.
 
 This project will require gathering data, performing a comprehensive analysis, and creating compelling visualizations that effectively communicate key trends, benefits, and challenges associated with each work model. You have the flexibility to shape the analysis based on your findings, either supporting WFH or advocating for back-to-office policies.
 
