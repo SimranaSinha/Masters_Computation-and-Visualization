@@ -66,6 +66,7 @@ Key Project Deliverables:
 Objective: Explore and visualize data on USA imports and exports to understand trade flows, key product categories, major trading partners
 
 Project Tasks:
+
 Data Collection:
 - Find and download USA imports and exports data for 2021.
 
