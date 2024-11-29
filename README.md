@@ -65,8 +65,7 @@ Key Project Deliverables:
 # Makeup Assignment : Analyzing USA Imports and Exports in 2021
 Objective: Explore and visualize data on USA imports and exports to understand trade flows, key product categories, major trading partners
 
-Project Tasks
-
+Project Tasks:
 Data Collection:
 - Find and download USA imports and exports data for 2021.
 
