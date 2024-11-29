@@ -60,3 +60,20 @@ Key Project Deliverables:
 - Data Analysis: A thorough analysis of the WFH Research data to understand patterns, productivity metrics, employee satisfaction, and cost-efficiency.
 - Visualizations: Graphs, charts, or interactive dashboards that clearly represent your findings.
 - Report: A concise report summarizing the insights, supported by visual evidence.
+
+
+# Makeup Assignment : Analyzing USA Imports and Exports in 2021
+Objective: Explore and visualize data on USA imports and exports to understand trade flows, key product categories, major trading partners
+
+Project Tasks
+
+Data Collection:
+- Find and download USA imports and exports data for 2021.
+
+Interpretation:
+- Key Partners: Discuss which trading partners are most significant and how they differ for imports and exports.
+- Product Categories: Explain the significance of specific product categories in trade and what this may indicate about the USA's economic priorities.
+Report (500 words):
+
+Summarize insights and include visuals.
+Describe key findings and how different visualizations helped illustrate various aspects of USA trade data.
