@@ -1,0 +1,12 @@
+﻿Name,Code,Year,Current Gross Export,Sector
+"Textiles, garments, footwear and furniture",0 HS92,2021,$42.1B,Textiles
+"Vegetables, animals, wood and paper",1 HS92,2021,$220B,Agriculture
+"Stone, glass and ceramics",2 HS92,2021,$83.6B,Stone
+"Minerals, fuels, ores and salts",3 HS92,2021,$260B,Minerals
+Metals,4 HS92,2021,$74.6B,Metals
+Chemicals and plastics,5 HS92,2021,$304B,Chemicals
+Transport vehicles,6 HS92,2021,$163B,Vehicles
+Machinery and instruments,7 HS92,2021,$325B,Machinery
+Electronics,8 HS92,2021,$171B,Electronics
+Other,9 HS92,2021,$109B,Other
+Services,,2021,$795B,Services
