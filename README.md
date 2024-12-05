@@ -77,3 +77,26 @@ Report (500 words):
 
 Summarize insights and include visuals.
 Describe key findings and how different visualizations helped illustrate various aspects of USA trade data.
+
+# Assignment 3: Patent across different Metropolitan Statistical Areas (MSAs) in the United States
+Objective
+Create a choropleth map to visualize the distribution of patents across different Metropolitan Statistical Areas (MSAs) in the United States. The goal is to identify regions with high patent activity
+
+Instructions
+Data Preparation:
+
+Download a dataset containing the number of patents issued, categorized by MSA.
+Since patents are awarded every year select one year of data.
+Include all product classes, i.e., total number of patents from an area for that year
+Setup:
+
+Use Python/ R/ datawrapper/ tableau/flourish (or any other tool) to generate the choropleth map.
+Recommended Python libraries: pandas, geopandas, matplotlib, plotly, folium.
+Recommended R libraries: ggplot2, sf, leaflet.
+Enhance Your Map:
+
+Add labels for MSAs with the top 5 highest patent counts.
+Analysis:
+
+Create a visualization webpage (200–300 words) summarizing:
+Regional trends in patent distribution.
