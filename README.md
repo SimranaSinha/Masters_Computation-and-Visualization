@@ -100,3 +100,29 @@ Analysis:
 
 Create a visualization webpage (200–300 words) summarizing:
 Regional trends in patent distribution.
+
+# Project 2: Regional data based on zip code
+
+For Project 2, you will create a data visualization dashboard that analyzes various regional data based on zip codes (Select a state and a county of your choice). The goal is to assign a comprehensive score to each zip code based on the variables you collect and analyze. Below are the key requirements and instructions for the project.
+
+Project Requirements:
+Data Collection:
+
+You must collect at least five different variables for each zip code. These could include factors such as population density, median income, crime rates, education levels, housing prices, or access to public services.
+All data must be sourced from credible and publicly available databases (e.g., government websites, census data, etc.).
+Proper citations are required for each data source used. Ensure you provide a reference in APA format for each data set on the dashboard or in an accompanying document.
+Score Calculation:
+
+Use the data to create a composite score for each zip code, which reflects the region’s overall desirability or suitability based on the chosen variables.
+Clearly explain the weighting system and methodology for how each variable contributes to the overall score. This explanation should either be included on the dashboard or in a brief written summary.
+Dashboard Visualization:
+
+Your dashboard should display the following key components:
+Map Visualization of zip codes with color-coding based on the scores.
+Variable-specific Charts/Graphs (e.g., bar charts for income levels, heatmaps for population density).
+Score Breakdown: An interactive table or chart that breaks down the score for each zip code by the variables chosen.
+The dashboard should be intuitive and user-friendly, allowing viewers to interact with and explore the data.
+Data Citation:
+
+Include a section on the dashboard or an accompanying document where each data source is properly cited.
+Use APA format for citing the data sources (e.g., “U.S. Census Bureau. (2023). Population by Zip Code. Retrieved from…”).
