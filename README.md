@@ -1,5 +1,25 @@
 # Masters_Computation-and-Visualization
 
+# Assignment 1 : Exploring CityScore Metrics Using Open Data
+Objective:
+- Analyze and visualize the performance metrics of the City of Boston using the CityScore data from the Boston Open Data PortalLinks to an external site.. Focus on visualizing amounts and part-to-whole relationships.
+
+Access the Dataset
+- Visit the CityScore datasetLinks to an external site. on Boston’s Open Data Portal. The dataset provides CityScore metrics, which track various performance measures across city services, including public safety, housing, transportation, and community well-being. Download the dataset in your preferred format (CSV, Excel, etc.).
+
+Data Selection
+- Select all the metrics from the dataset. Use the following objectives for visualization
+
+Amounts (Quantities): 
+- Such as total incidents, services provided, or overall performance scores.
+- Part-to-Whole: Such as proportions of resolved service requests compared to total requests, or the percentage contribution of different sectors to the total CityScore.
+
+Assignment Questions:
+- What trends or patterns do you observe in the selected CityScore metrics?
+- How does the city’s performance in these areas compare across time or between different categories?
+- In the case of part-to-whole relationships, what proportion of the whole is contributed by each part?
+- Submission Format: Report (250-300 words): Provide an analysis of your visualizations, discussing key trends, patterns, or insights derived from the data.#
+
 # Assignment 2: Data Visualization Project: Analyzing the U.S. Housing Market Using Time Series Data
 
 Objective:
